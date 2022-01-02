@@ -12,4 +12,4 @@ hello zimo! hello git!
 hello zimo! hello git!
 hello zimo! hello git!
 hello zimo! hello git!
-hello zimo! hello git!
+hello zimo! hello git! hot-fix test
