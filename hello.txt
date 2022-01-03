@@ -15,3 +15,4 @@ hello zimo! hello git! master test
 hello zimo! hello git! hot-fix test
 asdfghjkwertyuidfghjertyudfghjrtyughj
 sshjjj
+你好生活
